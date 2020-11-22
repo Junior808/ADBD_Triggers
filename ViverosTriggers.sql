@@ -1,3 +1,3 @@
-insert into Cliente VALUES (123456788,"PEPE", NULL, NULL, NULL, NULL);
-insert into Cliente VALUES (123455554,NULL, NULL, NULL, NULL, "casiano@ull.edu.es");
-insert into Producto_has_Pedido VALUES (1234, 1234, 2);
+insert into Vivero.Cliente VALUES (123333333,"Juan", NULL, NULL, NULL, NULL);
+insert into Vivero.Cliente VALUES (123455555,"Luis", NULL, NULL, NULL, "luis@ull.edu.es");
+insert into Vivero.Producto_has_Pedido VALUES (1234, 1234, 2);
